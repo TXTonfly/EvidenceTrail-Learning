@@ -13,7 +13,7 @@ DESIGN DIRECTION
 - No fabricated monitoring readings: until wired to real sources, show placeholders such as N/A. Avoid fictional “security verified” status labels.
 - Animation optional and suppressible: digital rain, subtle light/moon glow, controlled resource use.
 - Two modes: (A) cinematic Command Center with actual controls and real metrics; (B) distraction-free Engineering Mode for Python, LazyVim, Foot, tmux, Git and browsers.
-- Reference imagery: the image generated in this conversation as “a_cinematic_highly_detailed_terminal_workstation.png”, with header RONIN PROTOCOL // DIGITAL SHOGUN. The image is a mockup and not functional UI. A standalone permanent copy of that rendered asset still needs to be archived separately; this document saves the design intent and identification.
+- Reference imagery: the image generated in this conversation as “a_cinematic_highly_detailed_terminal_workstation.png”, with header RONIN PROTOCOL // DIGITAL SHOGUN. The image is a mockup and not functional UI. The reference artwork is archived separately in Google Drive: https://drive.google.com/file/d/1YnTuGF-tyCvikmZqNdHiGt7Jtq7pW6Zt/view?usp=drivesdk (RONIN_PROTOCOL_Digital_Shogun_Reference.png). It remains concept art, not implemented interface behavior.
 
 WORKING FEATURES — PROPOSED, NOT IMPLEMENTED
 1. Honest CPU, memory, disk, uptime, clock, and network readings from verified local sources.
